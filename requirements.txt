@@ -1,0 +1,7 @@
+keras
+matplotlib
+numpy
+pillow
+sox
+tensorflow
+youtube-dl
