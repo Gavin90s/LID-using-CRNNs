@@ -1,8 +1,10 @@
 # Language Identification using Deep Convolutional Recurrent Neural Networks
 
-This repository contains the code for the paper "Language Identification Using Deep Convolutional Recurrent Neural Networks" by Bartz, C., Herold, T., Yang, H., and Meinel, C. [1]
+This repository contains the code for the paper "Language Identification Using Deep Convolutional Recurrent Neural
+Networks" by Bartz, C., Herold, T., Yang, H., and Meinel, C. [1]
 
-This project is developed as a partial fulfillment of the requirements for the Deep Learning (CSE 676) course at the University at Buffalo.
+This project is developed as a partial fulfillment of the requirements for the Deep Learning (CSE 676) course at the
+University at Buffalo.
 
 ## Structure of the Repository
 
@@ -23,15 +25,15 @@ This project is developed as a partial fulfillment of the requirements for the D
 
 ## Requirements
 
-Library requirements for this project can be found in 'requirements.txt' and can be installed using
+Library requirements for this project can be found in `requirements.txt` and can be installed using
 ```
 pip install -r requirements.txt
 ```
 
 ## Models
 
-This repository contains two models. One for English, German and French languages and the other for English, Hindi and German languages.
-The models can be found in the folder `config/pre-trained models`
+This repository contains two models. One for English, German and French languages and the other for English, Hindi and
+German languages. The models can be found in the folder `config/pre-trained models`
 
 #### Data sourcing and pre-processing
 
@@ -60,6 +62,6 @@ python predict.py --model <path_to_model> --input <path_to_audio_file>
 
 ### References:
 
-1. Bartz, C., Herold, T., Yang, H., and Meinel, C.: ‘Language identification using deep convolutional recurrent neural networks’, in Editor (Ed.)^(Eds.): ‘Book Language identification using deep convolutional recurrent neural networks’ (Springer, 2017, edn.), pp. 880-889 [[PDF]](https://arxiv.org/pdf/1708.04811v1.pdf)
-
-2. Original code for the paper that can be found [here](https://github.com/HPI-DeepLearning/crnn-lid)
+Bartz, C., Herold, T., Yang, H., and Meinel, C.: ‘Language identification using deep convolutional recurrent neural
+networks’, in Editor (Ed.)^(Eds.): ‘Book Language identification using deep convolutional recurrent neural networks’
+(Springer, 2017, edn.), pp. 880-889 [[PDF]](https://arxiv.org/pdf/1708.04811v1.pdf)
