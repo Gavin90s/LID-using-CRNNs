@@ -79,10 +79,6 @@ class ImageLoader(CSVLoader):
 
 
 # REFERENCES:
-# 1. Bartz, C., Herold, T., Yang, H., and Meinel, C.: ‘Language identification using deep convolutional
-#     recurrent neural networks’, in Editor (Ed.)^(Eds.): ‘Book Language identification using deep convolutional
-#     recurrent neural networks’ (Springer, 2017, edn.), pp. 880-889
-#     https://arxiv.org/pdf/1708.04811v1.pdf
-#
-# 2. Original code for the paper that can be found at
-#     https://github.com/HPI-DeepLearning/crnn-lid
+# Bartz, C., Herold, T., Yang, H., and Meinel, C.: ‘Language identification using deep convolutional recurrent neural
+# networks’, in Editor (Ed.)^(Eds.): ‘Book Language identification using deep convolutional recurrent neural networks’
+# (Springer, 2017, edn.), pp. 880-889 https://arxiv.org/pdf/1708.04811v1.pdf
